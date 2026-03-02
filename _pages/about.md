@@ -19,4 +19,4 @@ Github: https://github.com/socratesclub
 - Cheng-Jun Wang https://chengjun.github.io/
 
 
-🖋[Revise this page](https://github.com/SocratesClub/socratesclub.github.io/edit/master/_pages/about.md)
+🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
