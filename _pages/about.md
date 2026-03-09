@@ -1,22 +1,24 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "王处寒的个人主页"   
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
  
 
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
+## 基本信息
 
-Github: https://github.com/socratesclub
+- **姓名**：王处寒
+- **出生日期**：2005-3-24
+- **学校**：南京大学
+- **专业**：大数据传播实验班
+- **班级**：大数据传播实验班
 
-## People
 ### Directer
-- Cheng-Jun Wang https://chengjun.github.io/
+- Chu-han Wang https://xiaowdao.github.io/
 
 
-🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
+
